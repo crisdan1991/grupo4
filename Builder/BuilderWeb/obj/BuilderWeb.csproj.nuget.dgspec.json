@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\BuilderWeb.csproj": {}
+    "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\BuilderWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\BuilderWeb.csproj": {
+    "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\BuilderWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\BuilderWeb.csproj",
+        "projectUniqueName": "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\BuilderWeb.csproj",
         "projectName": "BuilderWeb",
-        "projectPath": "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\BuilderWeb.csproj",
+        "projectPath": "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\BuilderWeb.csproj",
         "packagesPath": "C:\\Users\\natym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\obj\\",
+        "outputPath": "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

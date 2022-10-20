@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "znp6a+RYnIgQR2M/KoKbBOJTKng9jR2E5Zg7wUW+o9M3hbU4L3vQeJGUG1OphSEYZ9mMyeCHlgtr3uj3DYjewg==",
+  "dgSpecHash": "28e434nbDKlPE9ZNqXp9uWTN5M2lSP6suCzm9zgO96BkzYfzSy0FPI+wnyeqSbms7YjvPhEJnczMMnZ6FuA8Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natym\\source\\repos\\BuilderWeb\\BuilderWeb\\BuilderWeb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\natym\\source\\repos\\builder\\BuilderWeb\\BuilderWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natym\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
