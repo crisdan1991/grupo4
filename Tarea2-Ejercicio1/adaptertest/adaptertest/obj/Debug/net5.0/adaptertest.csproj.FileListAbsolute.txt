@@ -1,0 +1,16 @@
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.exe
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.deps.json
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.runtimeconfig.json
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.runtimeconfig.dev.json
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.dll
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\bin\Debug\net5.0\adaptertest.pdb
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.csproj.AssemblyReference.cache
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.AssemblyInfoInputs.cache
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.AssemblyInfo.cs
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.csproj.CoreCompileInputs.cache
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.dll
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\refint\adaptertest.dll
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.pdb
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\adaptertest.genruntimeconfig.cache
+C:\Users\PAUL\Desktop\Platzi\02_fundamentos de c# con .net core 2.1\adaptertest\adaptertest\obj\Debug\net5.0\ref\adaptertest.dll
